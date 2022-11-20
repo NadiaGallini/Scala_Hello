@@ -1,0 +1,192 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Scala\Scala_Hello\target\scala-2.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.13.10
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> D:\Scala\Scala_Hello\target\scala-2.13\classes\App$.class
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> D:\Scala\Scala_Hello\target\scala-2.13\classes\App$delayedInit$body.class
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> D:\Scala\Scala_Hello\target\scala-2.13\classes\App.class
+binary dependencies:
+3 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> C:\Users\я\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\ext\nashorn.jar
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> App
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> App$
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> App$delayedInit$body
+used names:
+105 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> *
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> +
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> ++
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> +:
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> -
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> /
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> <init>
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> <repeated>
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> >
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> A
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Any
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> AnyVal
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> App
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> B
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Boolean
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> CharSequence
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> DeprecatedFloatOrdering
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Double
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Float
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> FloatIsFractional
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Function1
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Implicits
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Inclusive
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> IncomeList
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Int
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> IterableOnce
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> KeyValueOption
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> List
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Nothing
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Numeric
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Object
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Ordering
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Predef
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Range
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> RichInt
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> String
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> StringOps
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> T
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> T1
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> T2
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Tuple2
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> U
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> Unit
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> addNewIncome
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> allIncomeList
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> apply
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> augmentString
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> avgIncome
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> drop
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> endStr
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> foreach
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> get_idx
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> i
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> idx
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> income
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> incomeAvg
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> incomeList
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> incomeMonth
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> insert
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> intWrapper
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> internal
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> jdk
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> length
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> list
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> math
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> max
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> min
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> nashorn
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> newEmployee1
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> newEmployee2
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> newIncome
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> newIncomeList
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> numPos
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> options
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> package
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> paybackForFood
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> println
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> prize
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> replace
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> reverse
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> runtime
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> scala
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> simvol
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> sorted
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> str
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> sum
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> take
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task2
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_a_1
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_a_2
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_a_3
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_a_4
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_b
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_d
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> task3_с
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> to
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> toFloat
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> toLowerCase
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> toString
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> v
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> valUpdate
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> value
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> withBonus
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> withoutFood
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> zipWithIndex
+product stamps:
+3 items
+D:\Scala\Scala_Hello\target\scala-2.13\classes\App$.class -> lastModified(1668948732067)
+D:\Scala\Scala_Hello\target\scala-2.13\classes\App$delayedInit$body.class -> lastModified(1668948732085)
+D:\Scala\Scala_Hello\target\scala-2.13\classes\App.class -> lastModified(1668948732078)
+source stamps:
+1 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> hash(a7adbd5c94276e847c34955a2eb2f2689a731aa4)
+binary stamps:
+3 items
+C:\Users\я\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar -> lastModified(1665252992000)
+C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\ext\nashorn.jar -> lastModified(1668695906526)
+C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\rt.jar -> lastModified(1668695907308)
+class names:
+3 items
+C:\Users\я\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar -> scala.App
+C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\ext\nashorn.jar -> jdk.nashorn.internal.runtime.options.KeyValueOption
+C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\rt.jar -> java.lang.Object
+internal apis:
+1 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB1G5JAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5tg0znQABm5vdGlmeXNxAH4ADHJZ1h90AAV0YXNrMnNxAH4ADF7SxOR0AAR3YWl0c3EAfgAMByf5BXQACkluY29tZUxpc3RzcQB+AAzrmJ1rdAAJdGFzazNfYV80c3EAfgAMfdi/O3QABmluc2VydHNxAH4ADOXK9tB0AAZlcXVhbHNzcQB+AAw+dld+dAAMbmV3RW1wbG95ZWUyc3EAfgAMPdLhhXQACXZhbFVwZGF0ZXNxAH4ADDvBoRl0AAxhc0luc3RhbmNlT2ZzcQB+AAxR84SJdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxOnO/TdAADQXBwc3EAfgAMaNYH03QADHN5bmNocm9uaXplZHNxAH4ADEjIDtV0AAd0YXNrM19kc3EAfgAMXJH+aXQACXRhc2szX2FfM3NxAH4ADK11j8p0AAlhdmdJbmNvbWVzcQB+AAw3kHOHdAAEbWFpbnNxAH4ADPnCUht0AAxuZXdFbXBsb3llZTFzcQB+AAxzSQAPdAAJbm90aWZ5QWxsc3EAfgAMpikQQ3QADGlzSW5zdGFuY2VPZnNxAH4ADGpZOL10AAl0YXNrM19hXzJzcQB+AAz2yKmXdAAHZ2V0X2lkeHNxAH4ADPoef4V0AAI9PXNxAH4ADIUo6EV0AAVjbG9uZXNxAH4ADIEt+ld0AA1uZXdJbmNvbWVMaXN0c3EAfgAMMHEtoXQABiRpbml0JHNxAH4ADCwfnMZ0AAxhZGROZXdJbmNvbWVzcQB+AAz4XEU1dAAKaW5jb21lTGlzdHNxAH4ADBGir7h0AANpZHhzcQB+AAzTSoCwdAAIdG9TdHJpbmdzcQB+AAxqA6hCdAAEYXJnc3NxAH4ADNvTDQh0AAZudW1Qb3NzcQB+AAzIzQhddAAJdGFzazNfYV8xc3EAfgAMVDmYcHQAAiE9c3EAfgAMMTTPfHQACGdldENsYXNzc3EAfgAMogXhCHQAAm5lc3EAfgAMKyretXQADWFsbEluY29tZUxpc3RzcQB+AAxJjmN0dAAHdGFzazNfYnNxAH4ADOzIG010AAJlcXNxAH4ADFPBSNN0AAtkZWxheWVkSW5pdHNxAH4ADK47EWJ0AAIjI3NxAH4ADNcvet90AAhmaW5hbGl6ZXNxAH4ADCuhgZl0AAhoYXNoQ29kZXNxAH4ADFArQUt0AAh0YXNrM1/RgXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AJXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCNc3EAfgCIdXEAfgBqAAAAAHNxAH4AiHVxAH4AagAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcHEAfgB5dXEAfgB6AAAAAHNxAH4AfARxAH4AL3VxAH4AfgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AqnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AJd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIF0AAVQbGFpbnEAfgBLc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCeWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCMc3EAfgCddAAFQXJyYXlxAH4Ao3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCddAAGU3RyaW5nc3EAfgChc3EAfgCkdXEAfgCnAAAAA3NxAH4AqXQABGphdmFzcQB+AKl0AARsYW5ncQB+AK5zcQB+AIh1cQB+AMEAAAAEc3EAfgCddAADQXBwcQB+AKNzcQB+AJ10AAtEZWxheWVkSW5pdHEAfgCjc3EAfgCddAAGT2JqZWN0cQB+AMVzcQB+AJ10AANBbnlxAH4Ao3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGElRiOQXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC5EOlxTY2FsYVxTY2FsYV9IZWxsb1x0YXJnZXRcc2NhbGEtMi4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUp629XJQnboR8NJVaLrLyaJpzGqQ=
+external apis:
+0 items
+source infos:
+1 items
+D:\Scala\Scala_Hello\src\main\scala\Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhIZUNX51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkQ6XFNjYWxhXFNjYWxhX0hlbGxvXHRhcmdldFxzY2FsYS0yLjEzXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhIZaDr11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkQ6XFNjYWxhXFNjYWxhX0hlbGxvXHRhcmdldFxzY2FsYS0yLjEzXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhJUTlvR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkQ6XFNjYWxhXFNjYWxhX0hlbGxvXHRhcmdldFxzY2FsYS0yLjEzXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhJUYjkF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkQ6XFNjYWxhXFNjYWxhX0hlbGxvXHRhcmdldFxzY2FsYS0yLjEzXGNsYXNzZXN0AAEv

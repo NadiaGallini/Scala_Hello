@@ -1,0 +1,44 @@
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set(D:\Scala\Scala_Hello\src\main\scala\Main.scala)
+[debug] [naha] Invalidated products: Set()
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(D:\Scala\Scala_Hello\src\main\scala\Main.scala)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set()
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\Scala\Scala_Hello\src\main\scala\Main.scala)
+[debug] [naha] Initial set of included nodes: Set(D:\Scala\Scala_Hello\src\main\scala\Main.scala)
+[debug] [naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to D:\Scala\Scala_Hello\target\scala-2.13\classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
+[debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
+[debug] Running cached compiler 71f77ea9, interfacing (CompilerInterface) with Scala compiler version 2.13.10
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\resources.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\rt.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\sunrsasign.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\jsse.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\jce.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\charsets.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\lib\jfr.jar;C:\Users\я\.jdks\temurin-1.8.0_352\jre\classes;C:\Users\я\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
+[debug] 	-classpath
+[debug] 	D:\Scala\Scala_Hello\target\scala-2.13\classes
+[warn] 2 deprecations
+[warn] 1 deprecation (since 2.13.0)
+[warn] 3 deprecations in total; re-run with -deprecation for details
+[warn] three warnings found
+[debug] Scala compilation took 7.230322 s
+[debug] [naha] Invalidating D:\Scala\Scala_Hello\src\main\scala\Main.scala...
+[debug] [naha] Invalidating (transitively) by inheritance from D:\Scala\Scala_Hello\src\main\scala\Main.scala...
+[debug] [naha] Initial set of included nodes: Set(D:\Scala\Scala_Hello\src\main\scala\Main.scala)
+[debug] [naha] Invalidated by transitive inheritance dependency: Set(D:\Scala\Scala_Hello\src\main\scala\Main.scala)
+[debug] [naha] The D:\Scala\Scala_Hello\src\main\scala\Main.scala source file has the following regular definitions changed:
+[debug] [naha] 	notify, task2, wait, IncomeList, task3_a_4, insert, equals, newEmployee2, valUpdate, asInstanceOf, executionStart, App, synchronized, task3_d, task3_a_3, avgIncome, main, newEmployee1, notifyAll, isInstanceOf, task3_a_2, get_idx, ==, clone, newIncomeList, $init$, addNewIncome, incomeList, idx, Main, toString, args, numPos, task3_a_1, !=, getClass, ne, allIncomeList, task3_b, eq, delayedInit, ##, finalize, hashCode, task3_с.
+[debug] [naha] All member reference dependencies will be considered within this context.
+[debug] [naha] New invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] Initial set of included nodes: Set()
+[debug] [naha] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
